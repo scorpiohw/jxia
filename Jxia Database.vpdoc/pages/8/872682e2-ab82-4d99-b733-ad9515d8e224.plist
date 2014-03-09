@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aliases</key>
+	<array/>
+	<key>attributes</key>
+	<dict>
+		<key>documentBackgroundColor</key>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWE
+		AWMDhAJmZgEBhg==
+		</data>
+		<key>lastEditingComputerName</key>
+		<string>Pheonix</string>
+		<key>lastEditingUserName</key>
+		<string>Huan WANG</string>
+	</dict>
+	<key>categories</key>
+	<array/>
+	<key>createdDate</key>
+	<date>2014-03-09T05:22:21Z</date>
+	<key>dataHash</key>
+	<string>1449c24a7709af99378ff8dc435cf00afd59bb2c</string>
+	<key>displayName</key>
+	<string>Index</string>
+	<key>encrypted</key>
+	<string>No</string>
+	<key>key</key>
+	<string>index</string>
+	<key>metaValues</key>
+	<dict/>
+	<key>modifiedDate</key>
+	<date>2014-03-09T05:23:09Z</date>
+	<key>shouldHighlightLinks</key>
+	<string>Yes</string>
+	<key>skipOnExport</key>
+	<string>No</string>
+	<key>uti</key>
+	<string>com.apple.rtfd</string>
+	<key>uuid</key>
+	<string>872682e2-ab82-4d99-b733-ad9515d8e224</string>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
